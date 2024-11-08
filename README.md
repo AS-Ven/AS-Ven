@@ -18,3 +18,11 @@
     <br />
     <a href="https://www.w3schools.com/python/"><img src="assets/python.svg" width="50" /></a>
 </div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AS-Ven/AS-Ven/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
