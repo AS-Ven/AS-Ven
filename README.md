@@ -5,7 +5,7 @@
 #### I'm a french dev student who understand that he can not just think about stupid things but make them real ! I practice algoritmy on my discord bot S.E.B. and enjoy it a lot.
 
 # 🛠 Skills
-<div align="center">
+<div align="left">
     <img src="assets/html.svg" width="50" />
     <br />
     <img src="assets/css.svg" width="50" />
