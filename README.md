@@ -2,7 +2,7 @@
 
 # Who am I ?
 ### Once upon a time, a little guy who try coding and became a creative nightmare !
-#### I'm a french dev student who understand that he can not just think about stupid things but make them real ! I practice algoritmy on my discord bot S.E.B. and enjoy it a lot.
+#### I'm a french dev student who understood that he can not just think about stupid things but make them real ! I practice algoritmy on my discord bot S.E.B. and enjoy it a lot.
 
 # 🛠 Skills
 <div align="left">
@@ -19,7 +19,4 @@
     <a href="https://www.w3schools.com/python/"><img src="assets/python.svg" width="50" /></a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="assets/snake.svg" />
-</picture>
+# 
