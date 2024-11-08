@@ -4,5 +4,7 @@
 ### Once upon a time, a little guy who try coding and became a creative nightmare !
 #### I'm a french dev student who understand that he can not just think about stupid things but make them real ! I practice algoritmy on my discord bot S.E.B. and enjoy it a lot.
 
-### 🛠 Skills
-<img src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
+# 🛠 Skills
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+</p>
