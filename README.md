@@ -6,5 +6,6 @@
 
 # 🛠 Skills
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="assets/css.svg" width="300" />
+    <img src="assets/html.svg" width="300" />
 </p>
