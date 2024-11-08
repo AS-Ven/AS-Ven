@@ -8,13 +8,13 @@
 <div align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/html.svg" width="50" /></a>
     <br />
-    <img src="assets/css.svg" width="50" />
-    <img src="assets/tailwind.svg" width="50" />
-    <img src="assets/sass.svg" width="50" />
+    <a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img src="assets/css.svg" width="50" /></a>
+    <a href="https://v2.tailwindcss.com/docs"><img src="assets/tailwind.svg" width="50" /></a>
+    <a href="https://sass-lang.com/documentation/"><img src="assets/sass.svg" width="50" /></a>
     <br />
-    <img src="assets/javascript.svg" width="50" />
-    <img src="assets/nodejs.svg" width="50" />
-    <img src="assets/discordjs.svg" width="50" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/javascript.svg" width="50" /></a>
+    <a href="https://nodejs.org/api/"><img src="assets/nodejs.svg" width="50" /></a>
+    <a href="https://discordjs.guide/"><img src="assets/discordjs.svg" width="50" /></a>
     <br />
-    <img src="assets/python.svg" width="50" />
+    <a href="https://www.w3schools.com/python/"><img src="assets/python.svg" width="50" /></a>
 </div>
