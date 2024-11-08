@@ -6,6 +6,13 @@
 
 # 🛠 Skills
 <p align="center">
-    <img src="assets/css.svg" width="75" />
+    <img src="assets/css.svg" width="50" />
     <img src="assets/html.svg" width="50" />
+    <img src="assets/javascript.svg" width="50" />
+    <br />
+    <img src="assets/sass.svg" width="50" />
+    <img src="assets/tailwind.svg" width="50" />
+    <img src="assets/python.svg" width="50" />
+    <img src="assets/nodejs.svg" width="50" />
+    <img src="assets/discordjs.svg" width="50" />
 </p>
