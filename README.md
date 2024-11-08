@@ -6,6 +6,6 @@
 
 # 🛠 Skills
 <p align="center">
-    <img src="assets/css.svg" width="300" />
-    <img src="assets/html.svg" width="300" />
+    <img src="assets/css.svg" width="30" />
+    <img src="assets/html.svg" width="30" />
 </p>
