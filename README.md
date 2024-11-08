@@ -6,7 +6,7 @@
 
 # 🛠 Skills
 <div align="left">
-    <img src="assets/html.svg" width="50" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/html.svg" width="50" /></a>
     <br />
     <img src="assets/css.svg" width="50" />
     <img src="assets/tailwind.svg" width="50" />
