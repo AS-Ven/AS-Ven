@@ -13,10 +13,16 @@
     <a href="https://sass-lang.com/documentation/"><img src="assets/sass.svg" width="50" /></a>
     <br />
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/javascript.svg" width="50" /></a>
+    <a href="https://www.typescriptlang.org"><img src="assets/ts.svg" width="50" /></a>
     <a href="https://nodejs.org/api/"><img src="assets/nodejs.svg" width="50" /></a>
+    <a href="https://react.dev"><img src="assets/react.svg" width="50" /></a>
     <a href="https://discordjs.guide/"><img src="assets/discordjs.svg" width="50" /></a>
     <br />
     <a href="https://www.w3schools.com/python/"><img src="assets/python.svg" width="50" /></a>
+    <br />
+    <a href="https://www.php.net/manual/index.php"><img src="assets/php.svg" width="50" /></a>
+    <br />
+    <a href="https://git-scm.com"><img src="assets/git.svg" width="50" /></a>
+    <a href="https://dev.mysql.com"><img src="assets/sql.svg" width="50" /></a>
 </div>
-
-# 
+#
