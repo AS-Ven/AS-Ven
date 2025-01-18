@@ -1,4 +1,4 @@
-[![Hey there !, ](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=You%20found%20me%20%21&title=Aldric%20Vendas)](https://pimp-my-readme-next.vercel.app)
+![Hey there !, ](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=You%20found%20me%20%21&title=Aldric%20Vendas)
 
 # Who am I ?
 ### Once upon a time, a little guy who try coding and became a creative nightmare !
@@ -26,7 +26,6 @@
     <a href="https://dev.mysql.com"><img src="assets/sql.svg" width="50" /></a>
 </div>
 
-# Commits
-<div align="center">
-    <img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400">
-</div>
+# Metrics
+![Calendar Metric](/metrics/isocalendar.svg)
+![Languages Metric](/metrics.languages.svg)
