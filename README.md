@@ -28,4 +28,4 @@
 
 # Metrics
 ![Calendar Metric](/metrics/isocalendar.svg)
-![Languages Metric](/metrics.languages.svg)
+![Languages Metric](/metrics/languages.svg)
