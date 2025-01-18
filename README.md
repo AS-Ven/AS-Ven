@@ -26,4 +26,7 @@
     <a href="https://dev.mysql.com"><img src="assets/sql.svg" width="50" /></a>
 </div>
 
-#
+# Commits
+<div align="center">
+    <img src="/github-metrics.svg" alt="Metrics" width="400">
+</div>
