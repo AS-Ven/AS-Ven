@@ -2,7 +2,7 @@
 
 # Who am I ?
 ### Once upon a time, a little guy who try coding and became a creative nightmare !
-#### I'm a french dev student who understood that he can not just think about stupid things but make them real ! I practice algoritmy on my discord bot S.E.B. and enjoy it a lot.
+#### I'm a french dev student who understood that he can not just think about stupid things but make them real ! I like to practice algoritmy on my projects.
 
 # 🛠 Skills
 <div align="left">
@@ -28,4 +28,3 @@
 
 # Metrics
 ![Calendar Metric](/metrics/isocalendar.svg)
-![Languages Metric](/metrics/languages.svg)
